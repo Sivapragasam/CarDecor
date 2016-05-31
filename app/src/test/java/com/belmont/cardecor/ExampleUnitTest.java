@@ -1,4 +1,4 @@
-package com.belmont.cardecor;
+package com.balonmatt.cardecor;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.belmont.cardecor;
+package com.balonmatt.cardecor;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
